@@ -1,4 +1,4 @@
 local player = game.Players.localPlayer
-while true do :
-player.Character.Humanoid.WalkSpeed = 100
+while true do 
+player.Character.Humanoid.WalkSpeed = 500
 end
