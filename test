@@ -1,0 +1,4 @@
+local player = game.Players.localPlayer
+while true do :
+player.Character.Humanoid.WalkSpeed = 100
+end
